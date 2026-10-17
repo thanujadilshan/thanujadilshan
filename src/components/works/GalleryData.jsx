@@ -561,6 +561,12 @@ export const GALLERY_DATA = {
             src: assets.realV8,
             title: "Real Estate videograph",
           },
+           {
+            id: "real-estate-video-09",
+            type: "video",
+            src: assets.realV9,
+            title: "Real Estate videograph",
+          },
           {
             id: "real-estate-video-01",
             type: "video",
