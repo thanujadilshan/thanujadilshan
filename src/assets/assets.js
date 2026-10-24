@@ -90,6 +90,7 @@ import realV6 from "./portfolio/realestate/06.mp4";
 import realV7 from "./portfolio/realestate/07.mp4";
 import realV8 from "./portfolio/realestate/08.mp4";
 import realV9 from "./portfolio/realestate/09.mp4";
+import realV10 from "./portfolio/realestate/10.mp4";
 import realestateP1 from "./portfolio/realestate/01.jpg";
 import realestateP2 from "./portfolio/realestate/02.jpg";
 import realestateP3 from "./portfolio/realestate/03.jpg";
@@ -141,6 +142,7 @@ export const assets = {
   realV7,
   realV8,
   realV9,
+  realV10,
   realestateP1,
   realestateP2,
   realestateP3,
