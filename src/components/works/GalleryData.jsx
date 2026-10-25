@@ -449,6 +449,11 @@ export const GALLERY_DATA = {
     title: "Events",
     description: "Professional photography and videography for events",
     categories: [
+          
+      {
+        id: "videography",
+        title: "Videography",
+        items: [
           {
             id: "event-video-04",
             type: "video",
@@ -461,10 +466,6 @@ export const GALLERY_DATA = {
             src: assets.e5,
             title: "Event Highlights",
           },
-      {
-        id: "videography",
-        title: "Videography",
-        items: [
           {
             id: "event-video-01",
             type: "video",
