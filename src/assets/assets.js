@@ -11,6 +11,8 @@ import f3 from "./portfolio/fashion/03.mp4";
 import e1 from "./portfolio/events/01.mp4";
 import e2 from "./portfolio//events/02.mp4";
 import e3 from "./portfolio/events/03.mp4";
+import e4 from "./portfolio//events/04.mp4";
+import e5 from "./portfolio/events/05.mp4";
 
 import eventsP1 from "./portfolio/events/p1.jpg";
 import eventsP2 from "./portfolio/events/p2.jpg";
@@ -160,6 +162,8 @@ export const assets = {
   e1,
   e2,
   e3,
+  e4,
+  e5,
   eventsP1,
   eventsP2,
   eventsP3,
